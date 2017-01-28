@@ -30,7 +30,9 @@ if($_FILES['upload'])
 		
 	}
 
-	апва
+	апваыаы
+	ыпавыпв
+	выапва
 	вапвапавп
 	
 	$callback = $_REQUEST['CKEditorFuncNum'];
